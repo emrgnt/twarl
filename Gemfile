@@ -13,6 +13,7 @@ gem 'omniauth'
 gem 'jquery-rails'
 gem "less"
 
+gem 'rails_simple_config' # install with: rails generate rails_simple_config:install
 gem 'sqlite3', :groups => [:development, :test]
 
 # Asset template engines

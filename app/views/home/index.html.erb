@@ -14,8 +14,9 @@
 <% end %>
 
 <% 
-title "Welcome to your new app"
-content_for :subtitle do "Let's get started" end
+title APP_CONFIG[:app_name]
+content_for :heading do APP_CONFIG[:app_name] end
+content_for :subtitle do APP_CONFIG[:app_tagline] end
 %>
 
 <div class="row">

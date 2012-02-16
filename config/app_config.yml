@@ -1,30 +1,31 @@
 development:
     domain:             localhost:3000
-    app_name:           Well Dressed Up
+    app_name:           Twarl
+    app_tagline:        Get dressed up!
+    app_description:    A choice directory of independent designer/makers, producing bespoke commissions and exclusive lines of clothing, accessories & costumes.
     twitter_key:        
     twitter_secret:     
     facebook_key:       
     facebook_secret:    
     linked_in_key:      
     linked_in_secret:   
+    google_analytics:   
 
 test:
     domain:             test.host
-    app_name:           Well Dressed Up
+    app_name:           Twarl
+    app_tagline:        Get dressed up!
+    app_description:    A choice directory of independent designer/makers, producing bespoke commissions and exclusive lines of clothing, accessories & costumes.
     twitter_key:        
     twitter_secret:     
     facebook_key:       
     facebook_secret:    
     linked_in_key:      
     linked_in_secret:   
+    google_analytics:   
 
 production:
-    domain:             welldressedup.herokuapp.com
-    app_name:           Well Dressed Up
-    # FILL IN FOLLOWING LINES WITH REAL ACCOUNTS (POINTING TO HEROKU)
-    # twitter_key:        
-    # twitter_secret:     
-    # facebook_key:       
-    # facebook_secret:    
-    # linked_in_key:      
-    # linked_in_secret:
+    domain:             twarl.herokuapp.com
+    app_name:           Twarl
+    app_tagline:        Get dressed up!
+    app_description:    A choice directory of independent designer/makers, producing bespoke commissions and exclusive lines of clothing, accessories & costumes.
